@@ -1,1 +1,1 @@
-# template_app
+# Electron JS Template made by Peregrin
